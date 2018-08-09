@@ -13,3 +13,7 @@ https://www.kaggle.com/c/cause-effect-pairs
 ## CRM Statistical Causal Inference and Applications to Genetics workshop
 
 http://www.crm.umontreal.ca/2016/Genetics16/competition_e.php
+
+## LUCAS and LUCAP  are lung cancer toy datasets
+
+http://www.causality.inf.ethz.ch/data/LUCAS.html
